@@ -1,4 +1,4 @@
-![logo](https://github.com/Pranav-Bidve/Pranav-Bidve/blob/main/Untitled%20design.png)
+![logo](https://github.com/Pranav-Bidve/Pranav-Bidve/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Pranav Bidve</h1>
 <h3 align="center">I am currently a Master's student in Data Science at Columbia University.</h3>
 
