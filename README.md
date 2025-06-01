@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Pranav Bidve</h1>
-<h3 align="center">MS in Data Science student @ Columbia University</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-silicon-valley-data-doesnt-lie-9sd5y0tm0scag6zb.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-bidve&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-bidve" /> </p>
