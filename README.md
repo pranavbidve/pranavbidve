@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-bidve&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-bidve" /> </p>
 
-- 🔭 I’m currently building real-time object detection systems for an autonomous aquatic platform using YOLO and DeepStream
-- 🤖 Passionate about LLMs, vision transformers, NLP, deep learning, and building real-world AI applications
-- 📊 Proficient in data visualization, regression modeling, feature selection, and time-series forecasting  
-- 👨‍💻 Check out my work at [github.com/pranavbidve](https://github.com/pranavbidve)
+- I’m currently building real-time object detection systems for an autonomous aquatic platform using YOLO and DeepStream
+- Passionate about LLMs, vision transformers, NLP, deep learning, and building real-world AI applications
+- Proficient in data visualization, regression modeling, feature selection, and time-series forecasting  
+- Check out my work at [github.com/pranavbidve](https://github.com/pranavbidve)
 
-- 📫 How to reach me: [pb2972@columbia.edu](https://github.com/pranavbidve)
-- ⚡ Fun fact: I dream of traveling the world, one adventure at a time
+- How to reach me: [pb2972@columbia.edu](https://github.com/pranavbidve)
+- Fun fact: I dream of traveling the world, one adventure at a time
 
 
 <h3 align="left">Connect with me:</h3>
