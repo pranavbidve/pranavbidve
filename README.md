@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranav-bidve&label=Profile%20views&color=0e75b6&style=flat" alt="pranav-bidve" /> </p>
 
-- I’m currently building real-time object detection systems for an autonomous aquatic platform using YOLO and DeepStream
+- I’m currently working on a capstone project with TD Bank to detect financial fraud in transactions and loan applications using NLP on structured and unstructured data.
 - Passionate about LLMs, vision transformers, NLP, deep learning, and building real-world AI applications
 - Proficient in data visualization, regression modeling, feature selection, and time-series forecasting  
 - Check out my work at [github.com/pranavbidve](https://github.com/pranavbidve)
