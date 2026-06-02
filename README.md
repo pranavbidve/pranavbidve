@@ -5,7 +5,6 @@
 
 - 🎓 MS in Data Science @ Columbia (Dec 2025)
 - Into LLMs, agentic RAG, edge inference, and building real-world AI stuff
-- Built a fraud detection system @ TD Bank using agentic RAG and LangGraph
 - Built financial AI agents @ Kordis - hybrid RAG, forecasting, real-time LLM calls
 - Deployed real-time YOLOv8 on edge hardware @ NOAA
 - Competing in IEEE LPCV 2026 - squeezing video models onto NPUs
