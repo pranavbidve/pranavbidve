@@ -1,7 +1,11 @@
 # Pranav Bidve
 
-AI/ML Engineer and Founding AI Engineer at Qosmic AI.
+AI/ML Engineer building production-grade agentic systems, retrieval pipelines, and LLM evaluation frameworks.
 
-I work on production-grade agentic systems, retrieval pipelines, and LLM evaluation.
+![Profile views](https://komarev.com/ghpvc/?username=pranavbidve&style=flat&color=0969da)
 
 [Portfolio](https://pranavbidve.github.io) · [LinkedIn](https://linkedin.com/in/pranav-bidve-4171a321b) · [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=pScw42QAAAAJ)
+
+### Languages and tools
+
+Python · PyTorch · Hugging Face · LangGraph · FastAPI · Docker · PostgreSQL · Git
